@@ -13,8 +13,8 @@
 ## 📈 Stats & Projects
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dendyrivaldi&show_icons=true&hide_title=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendyrivaldi&layout=compact&theme=radical&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Louce&show_icons=true&hide_title=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louce&layout=compact&theme=radical&hide_border=true" /></td>
     <td>
       <b>Current Focus:</b><br/>
       • 🤖 Ai Agent<br/>
@@ -33,6 +33,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dendyrivaldi/)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dendyrivaldi&color=blueviolet&style=flat-square&label=Views" alt="Views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Louce&color=blueviolet&style=flat-square&label=Views" alt="Views" /></p>
 
 <!-- Fun fact: GPT-4 has ~1.76T parameters but still can't decide between cake or pie! --> 
