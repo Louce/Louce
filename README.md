@@ -1,7 +1,7 @@
-# 👋 Hello, I'm [Your Name] | AI Enthusiast
+# 👋 Hello, I'm Dendy Rivaldi | AI Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFnamhrd2N2bXEzc2RnZGN1azJidXB6Z3h0aXpmeHZ3ZHJwa3dleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUt5jeIvJkT3AAXzf1/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW94M3hrc3pmNndrbmR0dmozd2Zodm4ycTl5ZDJrMGE5Y2txZTl4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 </p>
 
 > Building intelligent systems at the intersection of code and creativity. "AI is either the best or worst thing to happen to humanity." — Stephen Hawking
@@ -13,12 +13,13 @@
 ## 📈 Stats & Projects
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dendyrivaldi&show_icons=true&hide_title=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendyrivaldi&layout=compact&theme=radical&hide_border=true" /></td>
     <td>
       <b>Current Focus:</b><br/>
-      • 🤖 AI assistant for [domain]<br/>
-      • 🧠 Transformer models for [application]<br/>
-      • 👁️ Computer vision for [use case]
+      • 🤖 Ai Agent<br/>
+      • 🧠 Transformer models for Image Generation<br/>
+      • 👁️ Computer vision for Stock
     </td>
   </tr>
 </table>
@@ -30,9 +31,8 @@
   <!-- BLOG-POST-LIST:END -->
 </details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dendyrivaldi/)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Views" alt="Views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dendyrivaldi&color=blueviolet&style=flat-square&label=Views" alt="Views" /></p>
 
 <!-- Fun fact: GPT-4 has ~1.76T parameters but still can't decide between cake or pie! --> 
